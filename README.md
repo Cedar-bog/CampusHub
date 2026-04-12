@@ -43,5 +43,6 @@
 - Node.js：![Node](https://img.shields.io/badge/Node-^20.19.0_||_>=22.12.0-339933?logo=node.js)
 
 ### 开发运维
+- CI/CD：![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI-2088FF?logo=github-actions)
 
 ---
