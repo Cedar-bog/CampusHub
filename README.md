@@ -1,4 +1,4 @@
-# the-project-or-whatever
+# 校园互助服务平台 CampusHub
 
 ---
 
